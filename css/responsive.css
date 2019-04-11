@@ -1,0 +1,21 @@
+@media only screen and (max-width: 1108px;) {
+  .wrapper {
+    width: 90%;
+  }
+  #social {
+    position: absolute;
+    top: 82px;
+    right: 4%;
+    width: auto;
+  }
+
+#social a {
+  display: inline-block
+}
+}
+
+/*first set the wrapper to be fluid with a %
+then adjust the values based on playing around in the dev tools 
+can make the px show up when you move the browser
+can make the elements change when playing around 
+make them display inline-block
