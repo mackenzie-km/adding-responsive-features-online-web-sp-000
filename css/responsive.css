@@ -19,6 +19,10 @@
   body {
     font-size: 85%;
   }
+  #logo h1 {
+    width: 90%; 
+    height: 90%;
+  }
 }
 
 /*first set the wrapper to be fluid with a %
@@ -27,4 +31,4 @@ can make the px show up when you move the browser
 can make the elements change when playing around
 make them display inline-block
 another breakpoint around 900px - text could be smaller
-and nav bar spazzing out
+and social bar and more narrow
