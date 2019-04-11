@@ -70,6 +70,9 @@
     padding: 10px 20px;
     width: auto;
   }
+  #logo {
+    padding: 60px 0 0;
+  }
 }
 
 /*first set the wrapper to be fluid with a %
