@@ -24,9 +24,12 @@
     height: 35px;
   }
 
-#logo h2 {
-  font-size: 2em;
-}
+  #logo h2 {
+    font-size: 2em;
+  }
+  #social a {
+    top: 72px;
+  }
 }
 
 /*first set the wrapper to be fluid with a %
