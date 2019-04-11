@@ -59,6 +59,16 @@
   }
 }
 
+@media only screen and (max-width: 700px) {
+  #navbar nav a {
+    display: none;
+  }
+  #navbar nav a.menu-icon {
+    display: block;
+    float: right;
+  }
+}
+
 /*first set the wrapper to be fluid with a %
 then adjust the values based on playing around in the dev tools
 can make the px show up when you move the browser
@@ -68,3 +78,6 @@ another breakpoint around 900px - text could be smaller
 and social bar and more narrow
 when it gtes really small - set to 100% swidth to get the columns
 to stack vertically
+when gets too small - menu bar will have hamburger icon
+can hide all of the other ones and if you have a class that
+has a hamburger icon - display it at the right time and hide the other class
