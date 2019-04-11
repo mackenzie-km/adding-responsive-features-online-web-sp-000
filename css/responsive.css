@@ -81,7 +81,9 @@
 @media only screen and (max-width: 495px) {
   h1 {
     visibility: hidden;
-    
+  }
+  h2 {
+    align: right;
   }
 }
 
