@@ -78,6 +78,12 @@
   }
 }
 
+@media only screen and (max-width: 495px) {
+  h2 {
+    visibility: hidden;
+  }
+}
+
 /*first set the wrapper to be fluid with a %
 then adjust the values based on playing around in the dev tools
 can make the px show up when you move the browser
