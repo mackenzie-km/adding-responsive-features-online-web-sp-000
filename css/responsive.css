@@ -9,9 +9,9 @@
     width: auto;
   }
 
-#social a {
-  display: inline-block
-}
+  #social a {
+    display: inline-block
+  }
 }
 
 /*first set the wrapper to be fluid with a %
