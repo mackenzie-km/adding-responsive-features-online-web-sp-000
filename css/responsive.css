@@ -73,6 +73,9 @@
   #logo {
     padding: 60px 0 0;
   }
+  #social {
+    top: 60px;
+  }
 }
 
 /*first set the wrapper to be fluid with a %
