@@ -47,6 +47,9 @@
     margin-left: 0;
     float: none;
   }
+  .col-3 p {
+    column-count: 1;
+  }
   .border-right {
     border: 0;
   }
