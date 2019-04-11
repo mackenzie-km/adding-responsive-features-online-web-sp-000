@@ -79,7 +79,7 @@
 }
 
 @media only screen and (max-width: 495px) {
-  h2 {
+  h1 {
     visibility: hidden;
   }
 }
